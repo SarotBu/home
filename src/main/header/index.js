@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import './header.css';
 
 class HeaderComponent extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark header-styles">
         <a className="navbar-brand" href="/home">Sarot Busala</a>
 
           <ul className="navbar-nav mr-auto">
