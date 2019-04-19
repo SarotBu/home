@@ -12,7 +12,6 @@ class HomeComponent extends Component {
           <p>
             Ediaaaaaaaat <code>uwahhhhhhhhhhhhhhhh</code> Alooooooooooooooooooooooooooo.
           </p>
-          bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
         </div>
         <div className="col">
           zzzzzdadfaszz<br />
