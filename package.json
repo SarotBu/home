@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.8.6",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
@@ -24,7 +26,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://SaBuZa.github.io/home",
+  "homepage": "https://sabuza.github.io/home",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
