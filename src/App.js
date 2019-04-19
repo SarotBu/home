@@ -1,16 +1,12 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import HomeComponent from './home';
-import HeaderComponent from './header';
+import MainIndex from './main';
 
 class App extends Component {
   render(){
     return (
-      <div>
-          <HeaderComponent/>
-          <HomeComponent/>
-      </div>
+          <MainIndex/>
     );
 
 
