@@ -2,8 +2,14 @@
     width: 100%;
     height: 100%;
 }
-.HomeContainer{
+.home-item{
+    width: 100%;
+    height: 100%;
+
+}
+.home-flex{
     display: flex;
+    flex-wrap: wrap;
     align-content: center;
     width: 100%;
     height: 100%;

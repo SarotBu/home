@@ -4,16 +4,16 @@ import './home.css';
 class HomeComponent extends Component {
   render() {
     return (
-      <div className="HomeContainer">
-        <div className="col">
+      <div className="home-flex">
+        <div className="col home-item">
           ssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         </div>
-        <div className="colr">
+        <div className="col home-item">
 
             Ediaaaaaaaat <code>uwahhhhhhhhhhhhhhhh</code> Alooooooooooooooooooooooooooo.
 
         </div>
-        <div className="col">
+        <div className="col home-item">
           zzzzzdadfaszz<br />
           zzzzzdadfaszz<br />
           zzzzzdadfaszz<br />
