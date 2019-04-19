@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class HeaderComponent extends Component {
     render() {
         return (
-            <nav className="navbar navbar-expand-lg navbar-light bg-light">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <a className="navbar-brand" href="/home">Sarot Busala</a>
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
