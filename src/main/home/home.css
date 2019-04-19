@@ -4,6 +4,7 @@
 }
 .HomeContainer{
     display: flex;
+    align-content: center;
     width: 100%;
     height: 100%;
 }
