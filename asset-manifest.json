@@ -1,16 +1,17 @@
 {
-  "main.css": "/home/static/css/main.677cf4fc.chunk.css",
-  "main.js": "/home/static/js/main.06130fa4.chunk.js",
-  "main.js.map": "/home/static/js/main.06130fa4.chunk.js.map",
+  "main.css": "/home/static/css/main.edb11bed.chunk.css",
+  "main.js": "/home/static/js/main.b4f4dc50.chunk.js",
+  "main.js.map": "/home/static/js/main.b4f4dc50.chunk.js.map",
   "runtime~main.js": "/home/static/js/runtime~main.0990ee84.js",
   "runtime~main.js.map": "/home/static/js/runtime~main.0990ee84.js.map",
-  "static/js/2.548e0644.chunk.js": "/home/static/js/2.548e0644.chunk.js",
-  "static/js/2.548e0644.chunk.js.map": "/home/static/js/2.548e0644.chunk.js.map",
+  "static/js/2.6e39e941.chunk.js": "/home/static/js/2.6e39e941.chunk.js",
+  "static/js/2.6e39e941.chunk.js.map": "/home/static/js/2.6e39e941.chunk.js.map",
   "index.html": "/home/index.html",
-  "precache-manifest.0b67138eef191b1633cd26f5755579b3.js": "/home/precache-manifest.0b67138eef191b1633cd26f5755579b3.js",
+  "precache-manifest.d182ae18574e259fdc5b145236b9e1f8.js": "/home/precache-manifest.d182ae18574e259fdc5b145236b9e1f8.js",
   "service-worker.js": "/home/service-worker.js",
-  "static/css/main.677cf4fc.chunk.css.map": "/home/static/css/main.677cf4fc.chunk.css.map",
+  "static/css/main.edb11bed.chunk.css.map": "/home/static/css/main.edb11bed.chunk.css.map",
+  "static/media/Sarot_Resume.pdf": "/home/static/media/Sarot_Resume.20a1ea59.pdf",
   "static/media/styles.css": "/home/static/media/default_bg.d3c07b96.jpg",
   "static/media/logo.svg": "/home/static/media/logo.5d5d9eef.svg",
-  "static/media/profile.jpg": "/home/static/media/profile.d3c07b96.jpg"
+  "static/media/profile.png": "/home/static/media/profile.160cf9df.png"
 }
