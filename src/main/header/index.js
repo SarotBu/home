@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './header.css';
 
+import ResumeFile from "../files/Sarot_Resume.pdf";
+
 class HeaderComponent extends Component {
   render() {
     return (
@@ -16,7 +18,7 @@ class HeaderComponent extends Component {
             </li>
             
             <li className="nav-item">
-              <a className="nav-link" href="/home">Resume</a>
+              <a className="nav-link" href={ResumeFile}>Resume</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="/home">Blogs</a>

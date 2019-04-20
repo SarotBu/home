@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './home.css';
-import avatar from "../images/avatar/profile.jpg";
+import avatar from "../images/avatar/profile.png";
 
 console.log(avatar);
 
@@ -10,7 +10,7 @@ class HomeComponent extends Component {
       <div className="home-flex">
         <div className="col home-item">
           <br />
-          <img src={avatar} height="256" width="256" />
+          <img src={avatar} height="100%" width="100%" />
           Violettaaaaaaaaaaaaaaaaaaaaaaaaa
         </div>
         <div className="col home-item">
