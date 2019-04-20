@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './home.css';
 import bg from "../images/bg/default_bg.jpg";
 
+console.log(bg);
 class HomeComponent extends Component {
   render() {
     return (
