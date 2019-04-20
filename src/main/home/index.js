@@ -19,8 +19,8 @@ class HomeComponent extends Component {
             Hi ! I'm <b>Sarot Busala</b>, a mere mortal trying to be a researcher in Computer Graphics. <br/>
             Thank you for visiting my site !<br/>
             <br/>
-            初めまして！僕は　「サロト　ブサラー」　(Sarot Busala)　と申します！<br/>
-            僕の目標はコンピュターグラフィックスの研究者になります！ <br/>
+            初めまして！私は　「サロト　ブサラー」　(Sarot Busala)　と申します！<br/>
+            私の目標はコンピュターグラフィックスの研究者になることです！ <br/>
             このサイトに来てくれてありがとうございます！ <br/>
           </p>
         </div>
