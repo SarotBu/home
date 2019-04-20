@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
 import './home.css';
-import bg from "../images/bg/default_bg.jpg";
+import avatar from "../images/avatar/profile.jpg";
 
-console.log(bg);
+console.log(avatar);
+
 class HomeComponent extends Component {
   render() {
     return (
       <div className="home-flex">
         <div className="col home-item">
+          <br />
+          <img src={avatar} height="256" width="256" />
           Violettaaaaaaaaaaaaaaaaaaaaaaaaa
         </div>
         <div className="col home-item">
-            <img src={bg} />
-            Ediaaaaaaaat <code>uwahhhhhhhhhhhhhhhh</code> Alooooooooooooooooooooooooooo.
+          Ediaaaaaaaat <code>uwahhhhhhhhhhhhhhhh</code> Alooooooooooooooooooooooooooo.
 
         </div>
         <div className="col home-item">

@@ -1,11 +1,17 @@
 .bg-css{
-    background-image: url(./images/bg/default_bg.jpg); 
+    background-color: #65e0ffc0; 
+    width: 100%;
+    height: 100%;
+}
+.bg-img{
+    background-image: url('./images/bg/default_bg.jpg'); 
     background-size: cover;
 }
-
 .bg-content{
-    background-color: rgb(200, 200, 200); 
+    display: flex;
+    background-color: #ececec; 
     width: 100%;
+    height: 100%;
 }
 
 .home-content{

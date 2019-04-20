@@ -10,11 +10,9 @@ class MainIndex extends Component {
     return (
       <div className="bg-css">
         <div className="container">
-          <div className="bg-css">
             <HeaderComponent />
-            <div className="home-content">
+            <div className="bg-content">
               <HomeComponent />
-            </div>
           </div>
         </div>
       </div>
