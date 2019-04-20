@@ -8,7 +8,7 @@ import './styles.css';
 class MainIndex extends Component {
   render() {
     return (
-      <div className="bg-css">
+      <div className="bg-img">
       adfdsafadasf
         <div className="container">
             <HeaderComponent />
