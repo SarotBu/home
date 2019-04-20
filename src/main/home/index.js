@@ -8,7 +8,7 @@ class HomeComponent extends Component {
     return (
       <div className="home-flex">
         <div className="col home-item">
-          ssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+          Violettaaaaaaaaaaaaaaaaaaaaaaaaa
         </div>
         <div className="col home-item">
             <img src={bg} />

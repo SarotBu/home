@@ -8,11 +8,11 @@ import './styles.css';
 class MainIndex extends Component {
   render() {
     return (
-      <div class="bg-css">
-        <div class="container">
-          <div class="bg-css">
+      <div className="bg-css">
+        <div className="container">
+          <div className="bg-css">
             <HeaderComponent />
-            <div class="home-content">
+            <div className="home-content">
               <HomeComponent />
             </div>
           </div>
