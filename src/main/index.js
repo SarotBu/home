@@ -9,7 +9,7 @@ class MainIndex extends Component {
   render() {
     return (
       <div className="bg-img">
-      adfdsafadasf
+      <br/>
         <div className="container">
             <HeaderComponent />
             <div className="bg-content">
