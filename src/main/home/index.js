@@ -15,6 +15,7 @@ class HomeComponent extends Component {
         </div>
         <div className="col-8 home-item">
           <p>
+            <br/>
             Hi ! I'm <b>Sarot Busala</b>, a mere mortal trying to be a researcher in Computer Graphics. <br/>
             Thank you for visiting my site !<br/>
             <br/>
