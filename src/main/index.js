@@ -16,6 +16,7 @@ class MainIndex extends Component {
               <HomeComponent />
             </div>
         </div>
+        <br/>
       </div>
     );
   }

@@ -8,54 +8,20 @@ class HomeComponent extends Component {
   render() {
     return (
       <div className="home-flex">
-        <div className="col home-item">
+        <div className="col-4 home-item">
           <br />
-          <img src={avatar} height="100%" width="100%" />
-          Violettaaaaaaaaaaaaaaaaaaaaaaaaa
+          <img src={avatar} height="80%" width="101%" />
+          <br/>
         </div>
-        <div className="col home-item">
-          Ediaaaaaaaat <code>uwahhhhhhhhhhhhhhhh</code> Alooooooooooooooooooooooooooo.
-
-        </div>
-        <div className="col home-item">
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
-          zzzzzdadfaszz<br />
+        <div className="col-8 home-item">
+          <p>
+            Hi ! I'm <b>Sarot Busala</b>, a mere mortal trying to be a researcher in Computer Graphics. <br/>
+            Thank you for visiting my site !<br/>
+            <br/>
+            初めまして！僕は　「サロト　ブサラー」　(Sarot Busala)　と申します！<br/>
+            僕の目標はコンピュターグラフィックスの研究者になります！ <br/>
+            このサイトに来てもらったありがとうございます！ <br/>
+          </p>
         </div>
       </div>
     );
