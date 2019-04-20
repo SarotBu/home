@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './home.css';
+import bg from "../images/bg/default_bg.jpg";
 
 class HomeComponent extends Component {
   render() {
@@ -9,7 +10,7 @@ class HomeComponent extends Component {
           ssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         </div>
         <div className="col home-item">
-
+            <img src={bg} />
             Ediaaaaaaaat <code>uwahhhhhhhhhhhhhhhh</code> Alooooooooooooooooooooooooooo.
 
         </div>
