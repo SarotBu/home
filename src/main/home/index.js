@@ -20,7 +20,7 @@ class HomeComponent extends Component {
             <br/>
             初めまして！僕は　「サロト　ブサラー」　(Sarot Busala)　と申します！<br/>
             僕の目標はコンピュターグラフィックスの研究者になります！ <br/>
-            このサイトに来てもらったありがとうございます！ <br/>
+            このサイトに来てくれてありがとうございます！ <br/>
           </p>
         </div>
       </div>
