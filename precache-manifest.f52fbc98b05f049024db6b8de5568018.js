@@ -12,27 +12,27 @@ self.__precacheManifest = [
     "url": "/home/static/media/default_bg.d3c07b96.jpg"
   },
   {
-    "revision": "20a1ea59a667753b58e5ca81f67c8b10",
-    "url": "/home/static/media/Sarot_Resume.20a1ea59.pdf"
+    "revision": "98b04da4f27efde5cc7bd96bbf0c0e18",
+    "url": "/home/static/media/Sarot_Resume.98b04da4.pdf"
   },
   {
     "revision": "4e1ec8947a6857600002",
     "url": "/home/static/js/runtime~main.0990ee84.js"
   },
   {
-    "revision": "c2c1529fd8f501e1ed57",
-    "url": "/home/static/js/main.cd146f44.chunk.js"
+    "revision": "993a575cd27bbc42a8b7",
+    "url": "/home/static/js/main.8ec6acc8.chunk.js"
   },
   {
     "revision": "49fe2bb6337391b45054",
     "url": "/home/static/js/2.6e39e941.chunk.js"
   },
   {
-    "revision": "c2c1529fd8f501e1ed57",
+    "revision": "993a575cd27bbc42a8b7",
     "url": "/home/static/css/main.192f7e67.chunk.css"
   },
   {
-    "revision": "aae9ea5c9678360f02d7766311d980cf",
+    "revision": "1f1ae9ee36492e091a3922c0d362ecc1",
     "url": "/home/index.html"
   }
 ];
