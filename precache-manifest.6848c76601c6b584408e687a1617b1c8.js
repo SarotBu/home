@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9c24841be7ffe652030a",
+    "revision": "8b43132e156fafd779c7",
     "url": "/home/static/css/main.95393771.chunk.css"
   },
   {
-    "revision": "9c24841be7ffe652030a",
-    "url": "/home/static/js/main.d8ad6409.chunk.js"
+    "revision": "8b43132e156fafd779c7",
+    "url": "/home/static/js/main.8fbcf2ae.chunk.js"
   },
   {
     "revision": "4e1ec8947a6857600002",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/home/static/media/profile.160cf9df.png"
   },
   {
-    "revision": "98b04da4f27efde5cc7bd96bbf0c0e18",
-    "url": "/home/static/media/Sarot_Resume.98b04da4.pdf"
+    "revision": "03fd65201dc68cbed953221663181573",
+    "url": "/home/static/media/Sarot_Resume.03fd6520.pdf"
   },
   {
     "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/home/static/media/default_bg.d3c07b96.jpg"
   },
   {
-    "revision": "2a630379f7a27160221aa693143df717",
+    "revision": "8912aa4fef1cd7396e9077d9d86f30c4",
     "url": "/home/index.html"
   }
 ];
